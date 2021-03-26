@@ -15,8 +15,16 @@ def preprocessingFiles():
     # READING THE FILE
     file = open("./CS317-w07-IR Dataset for A1/ShortStories/1.txt", encoding='utf8')
     print("First line of the file: "+file.readline())
+    # Counting the number of line in the file
     lines = countLines(file)
     print("Num of lines in the file: ", lines)
+    # Removing punctuations
+    punc = '''!()-[]{};:'"\, <>./?@#$%^&*_~'''
+    for line in file:
+        if line in punc:
+            line = line.replace(line, " ")
+    file = file.lower()
+    
 
 def main():
     preprocessingFiles()
