@@ -1,13 +1,12 @@
 
 def countLines(file):
     count = len(file.readlines())
-    return count+1
+    return count
 
-
+# Removing punctuations from the text
 def removePunctuations(file):
     file.seek(0)
     read = file.read()
-    # Removing punctuations from the text
     punc = '''!()-[]{};:'"\,<>./?@’#$“”%^&*_~�'''
     for line in read:
         if line in punc:
@@ -20,6 +19,16 @@ def removePunctuations(file):
     cleanedFile.close()
     print("Wrote new file without punctuations") 
 
+def removeStopWords():
+    # Read stopword into an array
+    wordFile = open("./CS317-w07-IR Dataset for A1/Stopword-List.txt", encoding='utf8')
+    numLines = countLines(wordFile)
+    words = []
+    wordFile.seek(0)
+    for i in range(numLines):
+        words.append(wordFile.readline())
+        words[i] = words[i].replace('\n', '') # Removing \n from all words end 
+    print("Words", words)
 
 def preprocessingFiles():
     # READING THE FILE
@@ -32,9 +41,9 @@ def preprocessingFiles():
 
 
 def main():
-    file = preprocessingFiles()
-    removePunctuations(file)
-    
+    # file = preprocessingFiles()
+    # removePunctuations(file)
+    removeStopWords()
 
 if __name__ == "__main__":
     main()
