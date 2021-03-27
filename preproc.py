@@ -14,7 +14,7 @@ def removePunctuations(file):
             print("Punc: ",line)
             read = read.replace(line,"")
 
-    cleanedFile = open("1-pp.txt","w+")
+    cleanedFile = open("./CS317-w07-IR Dataset for A1/ShortStoriesCleaned/1-pp.txt","w+")
     for line in read:
         cleanedFile.write(line)
     cleanedFile.close()
