@@ -3,13 +3,23 @@ def countLines(file):
     count = len(file.readlines())
     return count+1
 
-def countLines2(file):
+
+def removePunctuations(file):
     file.seek(0)
-    line = 1
-    for word in file:
-        if word == '\n':
-            line = line + 1
-    print("Number of lines in file is: ", line)
+    read = file.read()
+    # Removing punctuations from the text
+    punc = '''!()-[]{};:'"\,<>./?@’#$“”%^&*_~�'''
+    for line in read:
+        if line in punc:
+            print("Punc: ",line)
+            read = read.replace(line,"")
+
+    cleanedFile = open("1-pp.txt","w+")
+    for line in read:
+        cleanedFile.write(line)
+    cleanedFile.close()
+    print("Wrote new file without punctuations") 
+
 
 def preprocessingFiles():
     # READING THE FILE
@@ -18,16 +28,13 @@ def preprocessingFiles():
     # Counting the number of line in the file
     lines = countLines(file)
     print("Num of lines in the file: ", lines)
-    # Removing punctuations
-    punc = '''!()-[]{};:'"\, <>./?@#$%^&*_~'''
-    for line in file:
-        if line in punc:
-            line = line.replace(line, " ")
-    file = file.lower()
-    
+    return file
+
 
 def main():
-    preprocessingFiles()
+    file = preprocessingFiles()
+    removePunctuations(file)
+    
 
 if __name__ == "__main__":
     main()
