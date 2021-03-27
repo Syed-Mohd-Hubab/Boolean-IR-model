@@ -4,9 +4,21 @@ def countLines(file):
     count = len(file.readlines())
     return count
 
+# Returns a list of stopWords as provide in the file
+def getStopWords():
+    # Read given stopwords into an array 'words'
+    wordFile = open("./CS317-w07-IR Dataset for A1/Stopword-List.txt", encoding='utf8')
+    numLines = countLines(wordFile)
+    stopWords = []
+    wordFile.seek(0)
+    for i in range(numLines):
+        stopWords.append(wordFile.readline())
+        stopWords[i] = stopWords[i].replace('\n', '') # Removing \n from the word's end  
+    print("Stop Words extracted: ", stopWords)
+    return stopWords
 
 # Removing punctuations from the 'file' recieved as argument
-def removePunctuations(file):
+def removePunctuations(file, name):
     # Opening Desired File
     file = open("./CS317-w07-IR Dataset for A1/ShortStories/1.txt", encoding='utf8')
     fileStr = file.read()       # Single string containing whole file
@@ -20,32 +32,28 @@ def removePunctuations(file):
             fileStr = fileStr.replace(char, "")
 
     # Writing cleaned file to a new txt 
-    cleanedFile = open("./CS317-w07-IR Dataset for A1/ShortStoriesCleaned/1-noPunc.txt","w+")
+    path = "./CS317-w07-IR Dataset for A1/ShortStoriesNoPunc/"+name
+    cleanedFile = open(path, "w+")
     for char in fileStr:
         cleanedFile.write(char)
 
     print("New clean file created!!!")
+
+    file.close()
     return cleanedFile
 
-
 # Removal of stop words from cleaned file 
-def removeStopWords(cleanedFile):
-    # Read given stopwords into an array 'words'
-    wordFile = open("./CS317-w07-IR Dataset for A1/Stopword-List.txt", encoding='utf8')
-    numLines = countLines(wordFile)
-    stopWords = []
-    wordFile.seek(0)
-    for i in range(numLines):
-        stopWords.append(wordFile.readline())
-        stopWords[i] = stopWords[i].replace('\n', '') # Removing \n from the word's end  
-    print("Stop Words extracted: ", stopWords)
-
+def removeStopWords(cleanedFile, stopWords):
+    # Placing cursor at file start
     cleanedFile.seek(0)
     fileStr = cleanedFile.read()
     fileWords = []
+    # Storing all the words of the file in a 1D-Array
     for word in fileStr.split():
         fileWords.append(word)
-    print("file words: ", fileWords)
+    # print("file words: ", fileWords)
+    
+    # Replacing all stopwords with ''
     for word in fileWords:
         if word in stopWords:
             # print("word b4:", word)
@@ -58,25 +66,33 @@ def removeStopWords(cleanedFile):
         finalFile.write(word+'\n')
     
     finalFile.close()
+    cleanedFile.close()
 
 
 # Opening the file to be cleaned
-def preprocessingFiles():
+def preprocessingFiles(fileNum):
     # READING THE FILE
-    file = open("./CS317-w07-IR Dataset for A1/ShortStories/1.txt", encoding='utf8')
-    print("First line of the file: "+file.readline())
+    path = "./CS317-w07-IR Dataset for A1/ShortStories/"
+    name = str(fileNum) + "txt"
+    path = path + name
+    file = open(path, encoding='utf8')
+
     # Counting the number of line in the file
     lines = countLines(file)
-    print("Num of lines in the file: ", lines)
-    return file
+    print("Num of lines in the file: ",name, lines)
+    
+    return file, name
 
 ###################
 ### DRIVER CODE ###
 def main():
     print()
-    file = preprocessingFiles()
-    cleanedFile = removePunctuations(file)
-    removeStopWords(cleanedFile)
+    stopWords = getStopWords()
+    for i in range(1, 51):
+        NUMBER = i
+        file, name = preprocessingFiles(NUMBER)
+        cleanedFile = removePunctuations(file, name)
+        removeStopWords(cleanedFile)
 
 if __name__ == "__main__":
     main()
