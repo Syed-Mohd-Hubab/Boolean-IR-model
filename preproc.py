@@ -20,7 +20,9 @@ def getStopWords():
 # Removing punctuations from the 'file' recieved as argument
 def removePunctuations(file, name):
     # Opening Desired File
-    file = open("./CS317-w07-IR Dataset for A1/ShortStories/1.txt", encoding='utf8')
+    path = "./CS317-w07-IR Dataset for A1/ShortStories/"
+    path = path + name
+    file = open(path, encoding='utf8')
     fileStr = file.read()       # Single string containing whole file
     fileStr = fileStr.lower()   # Case folding
     alphabets = '''abcdefghijklmnopqrstuvwxyz'''
