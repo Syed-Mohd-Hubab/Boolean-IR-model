@@ -62,7 +62,7 @@ def removeStopWords(cleanedFile, stopWords, name):
     print("Stopwords removed: ", name)
 
     path = "./CS317-w07-IR Dataset for A1/ShortStoriesCleaned/"+name
-    finalFile = open(pth, "w")
+    finalFile = open(path, "w")
 
     for word in fileWords:
         finalFile.write(word+'\n')
