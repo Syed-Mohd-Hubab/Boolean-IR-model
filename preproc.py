@@ -37,13 +37,13 @@ def removePunctuations(file, name):
     for char in fileStr:
         cleanedFile.write(char)
 
-    print("New clean file created!!!")
+    print("Removed Punctuations & case folding", name)
 
     file.close()
     return cleanedFile
 
 # Removal of stop words from cleaned file 
-def removeStopWords(cleanedFile, stopWords):
+def removeStopWords(cleanedFile, stopWords, name):
     # Placing cursor at file start
     cleanedFile.seek(0)
     fileStr = cleanedFile.read()
@@ -59,8 +59,10 @@ def removeStopWords(cleanedFile, stopWords):
             # print("word b4:", word)
             word = word.replace(word, "")
             # print("word after:", word)
-    print("All stopwords have been removed from file word array!")
-    finalFile = open("./CS317-w07-IR Dataset for A1/ShortStoriesCleaned/1-final.txt","w")
+    print("Stopwords removed: ", name)
+
+    path = "./CS317-w07-IR Dataset for A1/ShortStoriesCleaned/"+name
+    finalFile = open(pth, "w")
 
     for word in fileWords:
         finalFile.write(word+'\n')
@@ -68,12 +70,11 @@ def removeStopWords(cleanedFile, stopWords):
     finalFile.close()
     cleanedFile.close()
 
-
 # Opening the file to be cleaned
 def preprocessingFiles(fileNum):
     # READING THE FILE
     path = "./CS317-w07-IR Dataset for A1/ShortStories/"
-    name = str(fileNum) + "txt"
+    name = str(fileNum) + ".txt"
     path = path + name
     file = open(path, encoding='utf8')
 
@@ -85,6 +86,7 @@ def preprocessingFiles(fileNum):
 
 ###################
 ### DRIVER CODE ###
+###################
 def main():
     print()
     stopWords = getStopWords()
@@ -92,7 +94,7 @@ def main():
         NUMBER = i
         file, name = preprocessingFiles(NUMBER)
         cleanedFile = removePunctuations(file, name)
-        removeStopWords(cleanedFile)
+        removeStopWords(cleanedFile, stopWords, name)
 
 if __name__ == "__main__":
     main()
