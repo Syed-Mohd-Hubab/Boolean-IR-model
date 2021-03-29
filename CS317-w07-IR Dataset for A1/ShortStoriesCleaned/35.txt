@@ -1,10 +1,12 @@
 boots
 a
-pianotuner
+piano
+tuner
 called
 murkin
 a
-closeshaven
+close
+shaven
 man
 with
 a
@@ -17,7 +19,8 @@ stained
 with
 snuff
 and
-cottonwool
+cotton
+wool
 in
 his
 ears
@@ -25,7 +28,8 @@ came
 out
 of
 his
-hotelroom
+hotel
+room
 into
 the
 passage
@@ -442,7 +446,8 @@ pair
 of
 boots
 the
-pianotuner
+piano
+tuner
 thanked
 her
 and
@@ -744,7 +749,8 @@ left
 foot
 asked
 the
-pianotuner
+piano
+tuner
 picking
 up
 the
@@ -973,7 +979,8 @@ going
 to
 the
 mens
-dressingroom
+dressing
+room
 he
 found
 there
@@ -1046,7 +1053,8 @@ see
 mr
 blistanov
 the
-pianotuner
+piano
+tuner
 asked
 as
 he
@@ -1071,7 +1079,8 @@ you
 sir
 began
 the
-pianotuner
+piano
+tuner
 in
 an
 imploring
@@ -1108,7 +1117,8 @@ you
 see
 said
 the
-pianotuner
+piano
+tuner
 addressing
 bluebeard
 er
@@ -1157,7 +1167,8 @@ after
 this
 gentleman
 the
-pianotuner
+piano
+tuner
 indicated
 blistanovhad
 gone
@@ -1363,7 +1374,8 @@ actresses
 in
 the
 next
-dressingroom
+dressing
+room
 felt
 faint
 and
@@ -1377,7 +1389,8 @@ believe
 this
 worthless
 rascal
-ooh
+o
+oh
 would
 you
 like
@@ -1442,7 +1455,8 @@ a
 yellow
 face
 and
-terrorstricken
+terror
+stricken
 eyes
 dart
 out
@@ -1977,7 +1991,8 @@ horse
 belonging
 to
 a
-sledgedriver
+sledge
+driver
 a
 peasant
 of
@@ -2029,7 +2044,8 @@ was
 caught
 by
 some
-houseporters
+house
+porters
 kuldarov
 at
 first
@@ -2168,7 +2184,8 @@ anisim
 vassilyitch
 ill
 run
-goodbye
+good
+bye
 mitya
 put
 on

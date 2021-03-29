@@ -210,7 +210,8 @@ overcoat
 with
 a
 shaven
-bluishcrimson
+bluish
+crimson
 countenance
 overtook
 us
@@ -497,7 +498,8 @@ there
 mushkin
 was
 a
-wellknown
+well
+known
 man
 you
 see
@@ -653,7 +655,8 @@ semblance
 i
 havent
 a
-halfpenny
+half
+penny
 to
 bless
 myself
@@ -729,7 +732,10 @@ is
 enough
 for
 all
-brrr
+b
+r
+r
+r
 let
 us
 drink

@@ -334,7 +334,8 @@ director
 write
 the
 application
-today
+to
+day
 dismissing
 vremensky
 fyodor
@@ -378,7 +379,8 @@ and
 conscientiously
 like
 a
-goodhearted
+good
+hearted
 and
 thoroughly
 decent
@@ -737,7 +739,8 @@ young
 man
 with
 a
-closeshaven
+close
+shaven
 face
 like
 a
@@ -1046,7 +1049,8 @@ send
 in
 your
 application
-tomorrow
+to
+morrow
 theres
 nothing
 to
@@ -1089,7 +1093,9 @@ or
 the
 other
 the
-goodfornothing
+good
+for
+nothing
 toady
 making
 up
@@ -1168,9 +1174,11 @@ have
 a
 post
 vacant
-today
+to
+day
 or
-tomorrow
+to
+morrow
 you
 will
 receive

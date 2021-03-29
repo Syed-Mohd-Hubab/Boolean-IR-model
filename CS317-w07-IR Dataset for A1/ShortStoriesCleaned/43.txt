@@ -81,7 +81,8 @@ where
 can
 i
 get
-posthorses
+post
+horses
 here
 the
 surveyor
@@ -91,7 +92,8 @@ the
 station
 gendarme
 what
-posthorses
+post
+horses
 theres
 no
 finding
@@ -104,7 +106,8 @@ miles
 round
 let
 alone
-posthorses
+post
+horses
 but
 where
 do
@@ -162,8 +165,10 @@ found
 a
 very
 sturdy
-sullenlooking
-pockmarked
+sullen
+looking
+pock
+marked
 peasant
 wearing
 a
@@ -171,7 +176,8 @@ tattered
 grey
 smock
 and
-barkshoes
+bark
+shoes
 you
 have
 got
@@ -322,7 +328,8 @@ for
 combining
 a
 slow
-tortoiselike
+tortoise
+like
 pace
 with
 a
@@ -335,7 +342,8 @@ inside
 out
 we
 shall
-geet
+ge
+et
 there
 the
 peasant
@@ -359,8 +367,10 @@ is
 no
 stopping
 her
-noow
-cursed
+no
+ow
+cur
+sed
 brute
 it
 was
@@ -515,7 +525,8 @@ nor
 paddock
 if
 by
-illluck
+ill
+luck
 one
 were
 attacked
@@ -572,7 +583,8 @@ face
 is
 suspicious
 and
-brutallooking
+brutal
+looking
 hey
 my
 good
@@ -752,7 +764,8 @@ i
 am
 thin
 and
-sicklylooking
+sickly
+looking
 but
 i
 have
@@ -1462,7 +1475,9 @@ us
 go
 on
 youll
-muurder
+mu
+ur
+der
 me
 but
 i

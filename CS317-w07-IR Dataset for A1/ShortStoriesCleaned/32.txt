@@ -106,7 +106,8 @@ police
 captain
 krinolinov
 two
-policesuperintendents
+police
+superintendents
 the
 district
 doctor
@@ -173,7 +174,8 @@ them
 instinctively
 walk
 on
-tiptoe
+tip
+toe
 holding
 out
 their
@@ -296,7 +298,8 @@ wax
 candles
 on
 a
-silverplated
+silver
+plated
 tray
 the
 hostess
@@ -434,8 +437,10 @@ the
 deceased
 zavzyatov
 a
-thickset
-redcheeked
+thick
+set
+red
+cheeked
 man
 who
 used
@@ -451,7 +456,8 @@ one
 gulp
 and
 smash
-lookingglasses
+looking
+glasses
 with
 his
 forehead
@@ -609,7 +615,8 @@ some
 anecdote
 of
 the
-goodheartedness
+good
+heartedness
 of
 the
 deceased
@@ -643,7 +650,8 @@ feet
 hasten
 into
 the
-diningroom
+dining
+room
 there
 the
 luncheon
@@ -1186,7 +1194,8 @@ old
 friend
 in
 petersburg
-today
+to
+day
 as
 in
 past

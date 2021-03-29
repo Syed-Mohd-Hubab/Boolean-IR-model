@@ -28,7 +28,8 @@ champoun
 a
 clean
 neat
-smoothlyshaven
+smoothly
+shaven
 old
 frenchman
 is
@@ -385,7 +386,8 @@ people
 than
 the
 french
-welleducated
+well
+educated
 clever
 people
 civilization
@@ -395,7 +397,8 @@ the
 french
 are
 all
-welleducated
+well
+educated
 with
 elegant
 manners
@@ -715,7 +718,8 @@ sets
 to
 dancing
 the
-cancan
+can
+can
 with
 them
 thats
@@ -823,7 +827,8 @@ go
 back
 to
 france
-whaat
+wha
+at
 but
 do
 you
@@ -1016,7 +1021,8 @@ his
 linen
 scent
 bottles
-prayerbooks
+prayer
+books
 braces
 ties
 all
@@ -1232,7 +1238,8 @@ up
 and
 pale
 and
-wideeyed
+wide
+eyed
 begins
 pacing
 up
@@ -1435,7 +1442,8 @@ concord
 champoun
 powders
 his
-tearstained
+tear
+stained
 face
 and
 goes
@@ -1443,7 +1451,8 @@ with
 kamyshev
 to
 the
-diningroom
+dining
+room
 the
 first
 course

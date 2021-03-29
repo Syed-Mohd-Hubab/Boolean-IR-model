@@ -106,7 +106,8 @@ reached
 the
 age
 of
-fiftytwo
+fifty
+two
 that
 is
 a
@@ -119,7 +120,8 @@ very
 many
 have
 already
-grownup
+grown
+up
 children
 my
 position
@@ -979,7 +981,8 @@ ask
 much
 give
 me
-twentyfive
+twenty
+five
 roubles
 and
 the
@@ -1323,7 +1326,8 @@ get
 nikolay
 nikolayitch
 i
-seventyfive
+seventy
+five
 roubles
 besides
 tips
@@ -1379,7 +1383,8 @@ he
 i
 am
 a
-middleaged
+middle
+aged
 man
 and
 i

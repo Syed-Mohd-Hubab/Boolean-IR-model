@@ -43,7 +43,8 @@ with
 a
 rope
 with
-firtrees
+fir
+trees
 and
 with
 flags
@@ -116,7 +117,8 @@ of
 epiphany
 there
 were
-twentyeight
+twenty
+eight
 degrees
 of
 frost
@@ -287,7 +289,8 @@ put
 up
 on
 the
-riverbank
+river
+bank
 the
 old
 governor
@@ -362,7 +365,8 @@ his
 voice
 as
 those
-cutthroats
+cut
+throats
 do
 with
 their
@@ -393,7 +397,8 @@ pavilion
 bah
 hes
 all
-aliveoh
+alive
+oh
 laughed
 the
 governor
@@ -429,7 +434,8 @@ big
 cap
 and
 a
-furlined
+fur
+lined
 coat
 hanging
 open
@@ -491,7 +497,8 @@ out
 of
 the
 wind
-halfway
+half
+way
 he
 suddenly
 bent
@@ -716,7 +723,8 @@ the
 mayor
 wiping
 his
-wedgeshaped
+wedge
+shaped
 beard
 with
 a
@@ -1553,7 +1561,8 @@ must
 walk
 about
 the
-skatingground
+skating
+ground
 before
 it
 gets
@@ -1611,7 +1620,8 @@ a
 shopboy
 in
 a
-fishshop
+fish
+shop
 yegor
 ivanitch
 went
@@ -1623,7 +1633,8 @@ arms
 so
 that
 his
-foxlined
+fox
+lined
 coat
 fell
 open
@@ -1689,7 +1700,8 @@ on
 till
 evening
 by
-dinnertime
+dinner
+time
 my
 stomach
 was
@@ -1725,7 +1737,8 @@ shop
 was
 like
 a
-mousetrap
+mouse
+trap
 with
 draughts
 blowing
@@ -1822,7 +1835,8 @@ to
 bed
 id
 be
-illhumoured
+ill
+humoured
 and
 set
 upon
@@ -1926,7 +1940,8 @@ you
 used
 to
 take
-wagonloads
+wagon
+loads
 of
 fish
 to
@@ -1955,7 +1970,8 @@ how
 during
 the
 last
-russoturkish
+russo
+turkish
 war
 one
 frosty
@@ -2115,7 +2131,8 @@ you
 look
 at
 the
-watercarriers
+water
+carriers
 at
 the
 schoolboys
@@ -2472,7 +2489,8 @@ he
 said
 getting
 up
-goodbye
+good
+bye
 i
 say
 he
@@ -2508,7 +2526,8 @@ and
 the
 bishop
 said
-goodbye
+good
+bye
 to
 the
 mayor

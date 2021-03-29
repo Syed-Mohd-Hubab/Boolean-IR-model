@@ -12,7 +12,8 @@ tall
 gentleman
 wearing
 a
-tophat
+top
+hat
 and
 a
 coat
@@ -157,7 +158,8 @@ facing
 her
 a
 tall
-wellmade
+well
+made
 man
 no
 longer
@@ -615,7 +617,8 @@ honour
 to
 wish
 you
-goodbye
+good
+bye
 well
 you
 are
@@ -682,7 +685,8 @@ into
 her
 bedroom
 hes
-goodlooking
+good
+looking
 respectable
 but
 how
@@ -732,7 +736,8 @@ the
 police
 nor
 the
-houseporters
+house
+porters
 can
 give
 me
@@ -979,7 +984,8 @@ a
 big
 decently
 furnished
-drawingroom
+drawing
+room
 there
 is
 not
@@ -1454,11 +1460,13 @@ little
 son
 a
 pale
-closecropped
+close
+cropped
 schoolboy
 in
 the
-diningroom
+dining
+room
 drinking
 his
 tea
@@ -1575,7 +1583,8 @@ bundles
 and
 hurriedly
 departs
-halfway
+half
+way
 home
 she
 remembers

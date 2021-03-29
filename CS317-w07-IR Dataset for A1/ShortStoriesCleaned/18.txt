@@ -8,7 +8,8 @@ velvet
 seat
 of
 a
-firstclass
+first
+class
 railway
 carriage
 a
@@ -28,7 +29,8 @@ tightly
 closed
 fingers
 a
-pincenez
+pince
+nez
 keeps
 dropping
 off
@@ -336,9 +338,11 @@ monstrous
 education
 at
 a
-boardingschool
+boarding
+school
 foolish
-novelreading
+novel
+reading
 the
 errors
 of
@@ -475,7 +479,8 @@ me
 voldemar
 it
 was
-selfsacrifice
+self
+sacrifice
 renunciation
 you
 must
@@ -750,7 +755,8 @@ on
 his
 fist
 his
-thoughtheavy
+thought
+heavy
 brow
 and
 ponders

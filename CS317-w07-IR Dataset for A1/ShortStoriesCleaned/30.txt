@@ -214,9 +214,11 @@ was
 not
 more
 than
-twentytwo
+twenty
+two
 or
-twentythree
+twenty
+three
 when
 i
 fell
@@ -480,7 +482,8 @@ the
 way
 if
 a
-grownup
+grown
+up
 juryman
 morally
 and
@@ -924,7 +927,8 @@ not
 in
 good
 form
-today
+to
+day
 we
 sat
 down
@@ -1189,7 +1193,8 @@ into
 ecstasies
 over
 her
-turnup
+turn
+up
 nose
 her
 shrieks
@@ -1796,7 +1801,8 @@ it
 out
 at
 the
-postoffice
+post
+office
 it
 will
 be

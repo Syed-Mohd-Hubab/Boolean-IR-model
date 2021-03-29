@@ -63,7 +63,8 @@ a
 step
 from
 the
-byeroad
+bye
+road
 which
 runs
 along
@@ -94,7 +95,8 @@ lying
 under
 a
 young
-oaktree
+oak
+tree
 a
 wooden
 ikon
@@ -197,7 +199,8 @@ the
 othera
 little
 scraggy
-pockmarked
+pock
+marked
 peasant
 with
 an
@@ -229,7 +232,8 @@ the
 light
 a
 small
-campfire
+camp
+fire
 is
 lazily
 burning
@@ -285,7 +289,8 @@ not
 asleep
 stammers
 the
-goatbeard
+goat
+beard
 thats
 all
 right
@@ -384,7 +389,8 @@ i
 am
 sorry
 the
-goatbeard
+goat
+beard
 answers
 gloomily
 and
@@ -402,7 +408,8 @@ sure
 you
 are
 a
-goodnatured
+good
+natured
 sober
 peasant
 and
@@ -520,7 +527,8 @@ at
 once
 a
 long
-drawnout
+drawn
+out
 moaning
 sound
 is
@@ -603,7 +611,8 @@ dawn
 now
 it
 is
-coold
+co
+old
 the
 crane
 is
@@ -808,7 +817,8 @@ monkish
 cassock
 and
 a
-broadbrimmed
+broad
+brimmed
 hat
 with
 a
@@ -933,7 +943,8 @@ the
 fire
 like
 a
-lightwinged
+light
+winged
 moth
 now
 i
@@ -963,7 +974,8 @@ peace
 be
 to
 you
-goodevening
+good
+evening
 good
 orthodox
 people
@@ -1013,7 +1025,8 @@ the
 right
 by
 the
-riverbank
+river
+bank
 and
 so
 you
@@ -1097,7 +1110,8 @@ to
 the
 spot
 with
-wideopen
+wide
+open
 mouth
 and
 staring
@@ -1373,10 +1387,12 @@ the
 right
 by
 the
-riverbank
+river
+bank
 by
 the
-riverbank
+river
+bank
 to
 be
 sure

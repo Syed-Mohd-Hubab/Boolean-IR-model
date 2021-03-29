@@ -3,7 +3,8 @@ troublesome
 visitor
 in
 the
-lowpitched
+low
+pitched
 crooked
 little
 hut
@@ -29,7 +30,8 @@ peasant
 with
 a
 wrinkled
-agedlooking
+aged
+looking
 face
 and
 a
@@ -43,7 +45,8 @@ his
 neck
 and
 a
-wellgrown
+well
+grown
 young
 man
 in
@@ -75,7 +78,8 @@ bench
 at
 a
 little
-threelegged
+three
+legged
 table
 on
 which
@@ -160,11 +164,13 @@ a
 hoarse
 little
 tenor
-halfwhisper
+half
+whisper
 staring
 with
 unbalinking
-scaredlooking
+scared
+looking
 eyes
 at
 the
@@ -282,7 +288,8 @@ a
 track
 its
 a
-cartroad
+cart
+road
 and
 that
 brings
@@ -320,7 +327,9 @@ some
 bread
 you
 old
-soandso
+so
+and
+so
 and
 where
 am
@@ -346,7 +355,8 @@ that
 passes
 they
 are
-halfblind
+half
+blind
 with
 spite
 they
@@ -1183,7 +1193,8 @@ light
 what
 for
 by
-illluck
+ill
+luck
 they
 may
 find
@@ -1253,7 +1264,8 @@ a
 setter
 and
 a
-housedog
+house
+dog
 came
 out
 from
@@ -1506,7 +1518,8 @@ the
 track
 the
 nearest
-pinetrees
+pine
+trees
 and
 the
 retreating
@@ -1606,7 +1619,8 @@ could
 hear
 the
 big
-windlashed
+wind
+lashed
 raindrops
 pattering
 angrily
@@ -1638,7 +1652,8 @@ and
 stumbling
 over
 the
-treestumps
+tree
+stumps
 i
 bet
 his
@@ -2344,7 +2359,8 @@ in
 your
 house
 anyway
-goodbye
+good
+bye
 hey
 flerka
 the

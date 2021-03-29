@@ -74,7 +74,8 @@ done
 up
 and
 as
-illluck
+ill
+luck
 would
 have
 it
@@ -150,7 +151,8 @@ dont
 understand
 it
 you
-coldhearted
+cold
+hearted
 wretch
 i
 shall
@@ -273,7 +275,8 @@ kozyavkin
 you
 will
 see
-tomorrow
+to
+morrow
 what
 views
 we
@@ -1297,9 +1300,11 @@ to
 have
 come
 out
-today
+to
+day
 or
-tomorrow
+to
+morrow
 and
 youve
 smashed

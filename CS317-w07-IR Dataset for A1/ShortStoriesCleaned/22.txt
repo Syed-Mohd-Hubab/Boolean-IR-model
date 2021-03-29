@@ -189,7 +189,8 @@ in
 front
 of
 a
-lookingglass
+looking
+glass
 while
 he
 put
@@ -204,7 +205,8 @@ not
 go
 into
 the
-buttonholes
+button
+holes
 and
 this
 circumstance
@@ -465,7 +467,8 @@ once
 more
 in
 the
-lookingglass
+looking
+glass
 the
 schoolmaster
 took
@@ -588,7 +591,8 @@ am
 just
 the
 same
-today
+to
+day
 as
 i
 was
@@ -649,7 +653,8 @@ banquet
 in
 the
 big
-diningroom
+dining
+room
 adorned
 with
 german
@@ -676,7 +681,8 @@ smaller
 one
 for
 the
-horsdoeuvres
+hors
+doeuvres
 the
 hot
 light
@@ -713,7 +719,8 @@ all
 had
 a
 nave
-girlishlysentimental
+girlishly
+sentimental
 air
 and
 it
@@ -728,7 +735,8 @@ of
 the
 house
 a
-goodnatured
+good
+natured
 little
 german
 with
@@ -754,7 +762,8 @@ round
 the
 table
 of
-horsdoeuvres
+hors
+doeuvres
 as
 zealously
 as
@@ -846,7 +855,8 @@ lukitch
 has
 come
 the
-schoolteachers
+school
+teachers
 were
 already
 crowding
@@ -856,7 +866,8 @@ table
 and
 eating
 the
-horsdoeuvres
+hors
+doeuvres
 sysoev
 frowned
 he
@@ -1141,7 +1152,8 @@ priest
 in
 a
 foppish
-cinnamoncoloured
+cinnamon
+coloured
 cassock
 and
 trousers
@@ -1220,7 +1232,8 @@ wry
 face
 drank
 a
-wineglass
+wine
+glass
 of
 some
 green
@@ -1299,7 +1312,8 @@ began
 according
 to
 the
-oldestablished
+old
+established
 custom
 i
 consider
@@ -1873,7 +1887,8 @@ is
 saying
 something
 polite
-haha
+ha
+ha
 no
 my
 dear
@@ -2154,8 +2169,10 @@ and
 silent
 new
 teachers
-povertystricken
-downtrodden
+poverty
+stricken
+down
+trodden
 youths
 who
 never
@@ -2302,7 +2319,8 @@ allow
 me
 to
 speak
-shh
+sh
+h
 to
 all
 you
@@ -2622,7 +2640,8 @@ a
 much
 better
 colour
-today
+to
+day
 than
 yesterday
 i
@@ -2686,7 +2705,8 @@ pile
 of
 his
 pupils
-exercisebooks
+exercise
+books
 and
 picking
 out
@@ -2708,7 +2728,8 @@ he
 was
 examining
 the
-exercisebooks
+exercise
+books
 the
 district
 doctor

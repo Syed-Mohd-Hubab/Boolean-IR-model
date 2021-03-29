@@ -410,7 +410,8 @@ queer
 its
 incomprehensible
 its
-extraordinary
+ex
+traordinary
 mused
 navagin
 its
@@ -464,7 +465,8 @@ florid
 signature
 in
 the
-oldfashioned
+old
+fashioned
 style
 with
 twirls
@@ -673,7 +675,8 @@ the
 spirit
 of
 some
-longdead
+long
+dead
 clerk
 who
 had
@@ -1018,7 +1021,8 @@ himself
 to
 the
 saucer
-tableturning
+table
+turning
 and
 discussions
 of
@@ -1150,7 +1154,9 @@ remembers
 that
 on
 that
-nevertobe
+never
+to
+be
 forgotten
 day
 the
@@ -1284,7 +1290,8 @@ me
 have
 it
 by
-tomorrow
+to
+morrow
 very
 well
 your
@@ -1294,7 +1301,8 @@ your
 mind
 at
 rest
-tomorrow
+to
+morrow
 it
 shall
 be
@@ -1306,7 +1314,8 @@ someone
 to
 the
 church
-tomorrow
+to
+morrow
 before
 evening
 service
@@ -1499,7 +1508,8 @@ leave
 me
 in
 peace
-leaeave
+lea
+eave
 me
 in
 peace
@@ -1547,7 +1557,8 @@ me
 i
 dont
 understand
-leaeave
+lea
+eave
 me
 in
 peace
