@@ -19,7 +19,6 @@ for NUMBER in range(1, 51):
     file = open(path, "w")
 
     for i in range(len(stems)):
-        # file.write(stems[i])
         file.write(stems[i]+'\n')
     
     file.close()
