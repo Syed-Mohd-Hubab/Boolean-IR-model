@@ -18,4 +18,4 @@ for NUMBER in range(1, 51):
 
 import json
 
-json.dump(dict, open("dictionary.json", "w"))
+json.dump(dict, open("dictionary.json", "w"), indent=2, sort_keys=True)
