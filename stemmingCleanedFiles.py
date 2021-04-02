@@ -23,5 +23,5 @@ for NUMBER in range(1, 51):
     
     file.close()
 
-    print(NUMBER, " before ->", len(words))
-    print(NUMBER, " after ->", len(stems)) 
+    # print(NUMBER, " before ->", len(words))
+    # print(NUMBER, " after ->", len(stems)) 

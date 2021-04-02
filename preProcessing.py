@@ -61,10 +61,8 @@ def removeStopWords(cleanedFile, stopWords, name):
     # Replacing all stopwords with ''
     for word in fileWords:
         if word not in stopWords:
-            # print("word b4:", word)
-            # word = word.replace(word, "")
             fileWords2.append(word)
-            # print("word after:", word)
+
     print("Stopwords removed: ", name)
 
     path = "./CS317-w07-IR Dataset for A1/ShortStoriesCleaned/"+name
