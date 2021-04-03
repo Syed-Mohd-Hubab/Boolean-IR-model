@@ -78,7 +78,7 @@ from
 monasteri
 he
 seen
-tigerand
+tiger
 that
 was
 then
@@ -144,13 +144,14 @@ anyth
 even
 most
 ordinari
-thingsfor
+thing
 instanc
 tree
 wild
 beast
 or
-seathey
+sea
+they
 could
 not
 listen

@@ -338,7 +338,8 @@ cheek
 branch
 two
 our
-fellowsthey
+fellows
+they
 wanted
 some
 turkish
@@ -472,7 +473,8 @@ court
 i
 tried
 send
-petitionthey
+petition
+they
 wouldnt
 take
 petition
@@ -832,7 +834,8 @@ say
 write
 out
 petition
-youthat
+you
+that
 he
 cannot
 there
@@ -844,7 +847,8 @@ been
 justice
 peace
 police
-captainthey
+captain
+they
 good
 your
 business
@@ -1369,7 +1373,8 @@ sympathy
 public
 village
 schoolmasters
-studentsits
+students
+its
 so
 low
 so
@@ -1485,7 +1490,8 @@ i
 cant
 get
 without
-lyingwhen
+lying
+when
 i
 tell
 truth
@@ -1525,7 +1531,8 @@ skvortsov
 going
 close
 him
-workthats
+work
+thats
 what
 you
 must
@@ -2525,7 +2532,8 @@ but
 what
 affected
 me
-mostshe
+most
+she
 chopped
 wood
 me
@@ -2537,7 +2545,8 @@ never
 chopped
 single
 log
-youshe
+you
+she
 did
 it
 how

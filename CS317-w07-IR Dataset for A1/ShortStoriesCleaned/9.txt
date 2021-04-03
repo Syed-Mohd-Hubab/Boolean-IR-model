@@ -78,7 +78,7 @@ from
 monastery
 he
 seen
-tigerand
+tiger
 that
 was
 then
@@ -144,13 +144,14 @@ anything
 even
 most
 ordinary
-thingsfor
+things
 instance
 trees
 wild
 beasts
 or
-seathey
+sea
+they
 could
 not
 listen

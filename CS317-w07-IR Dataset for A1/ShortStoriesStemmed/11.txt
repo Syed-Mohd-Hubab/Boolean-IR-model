@@ -530,7 +530,7 @@ lord
 send
 it
 us
-punishmentth
+punish
 frost
 i
 mean
@@ -751,7 +751,8 @@ sort
 dish
 children
 go
-skatingthat
+skate
+that
 true
 man
 who
@@ -845,11 +846,13 @@ enemi
 my
 sin
 troubl
-sortsi
+sort
+i
 forget
 them
 but
-frostough
+frost
+ough
 how
 i
 rememb
@@ -862,8 +865,9 @@ i
 was
 left
 littl
-devilthi
-higha
+devil
+this
+high
 homeless
 orphan
 kith
@@ -875,7 +879,7 @@ littl
 cloth
 hungri
 nowher
-sleepin
+sleep
 fact
 here
 abid

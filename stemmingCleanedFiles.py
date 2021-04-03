@@ -15,7 +15,7 @@ for NUMBER in range(1, 51):
     
     stems = stemmer.stemWords(words)
 
-    path = "./CS317-w07-IR Dataset for A1/ShortStoriesStemmed/" + name
+    path = "./CS317-w07-IR Dataset for A1/ShortStoriesStemmed/"+name
     file = open(path, "w")
 
     for i in range(len(stems)):

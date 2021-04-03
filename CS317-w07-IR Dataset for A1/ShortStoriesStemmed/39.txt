@@ -7,7 +7,7 @@ nephew
 madam
 ivanov
 colonel
-widowth
+widow
 man
 whose
 new
@@ -15,7 +15,8 @@ golosh
 were
 stolen
 last
-yearcam
+year
+came
 home
 from
 christen
@@ -224,7 +225,7 @@ whole
 street
 head
 arm
-legsal
+leg
 seem
 torn
 off

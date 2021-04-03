@@ -51,7 +51,8 @@ take
 salari
 noth
 my
-boythat
+boy
+that
 not
 right
 thing
@@ -258,7 +259,7 @@ whether
 take
 offenc
 or
-notand
+not
 decid
 take
 offenc
@@ -353,7 +354,8 @@ it
 were
 ani
 use
-companybut
+compani
+but
 half
 passeng
 travel
@@ -927,7 +929,8 @@ curs
 it
 if
 you
-nothingtheyr
+noth
+theyr
 angri
 if
 you

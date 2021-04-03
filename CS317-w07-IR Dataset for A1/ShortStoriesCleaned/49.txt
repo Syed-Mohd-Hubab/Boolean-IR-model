@@ -71,7 +71,7 @@ idle
 babble
 eat
 drink
-sleepand
+sleep
 apparently
 that
 was
@@ -148,7 +148,8 @@ anything
 whatever
 you
 give
-himfrogs
+him
+frogs
 rats
 black
 beetles
@@ -198,7 +199,8 @@ nasty
 but
 if
 its
-frencho
+french
+o
 say
 tray
 zholee
@@ -253,7 +255,8 @@ when
 you
 drive
 out
-gateyou
+gate
+you
 see
 end
 land
@@ -403,7 +406,7 @@ boasting
 he
 will
 invent
-somethingand
+something
 break
 it
 or
@@ -723,7 +726,7 @@ correct
 figure
 trunk
 bedstead
-tableall
+table
 an
 air
 elegance

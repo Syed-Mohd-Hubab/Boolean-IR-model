@@ -14,7 +14,8 @@ sitting
 under
 big
 dark
-ikonartyom
+ikon
+artyom
 himself
 short
 lean
@@ -434,7 +435,8 @@ folks
 but
 villains
 murderers
-endgod
+end
+god
 mercy
 upon
 us
@@ -1399,9 +1401,11 @@ were
 murdered
 hunter
 went
-wellstrike
+well
+strike
 me
-godi
+god
+i
 notion
 you
 were

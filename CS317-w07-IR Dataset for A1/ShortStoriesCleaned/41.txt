@@ -51,7 +51,8 @@ taking
 salary
 nothing
 my
-boythats
+boy
+thats
 not
 right
 thing
@@ -258,7 +259,7 @@ whether
 take
 offence
 or
-notand
+not
 decides
 take
 offence
@@ -353,7 +354,8 @@ it
 were
 any
 use
-companybut
+company
+but
 half
 passengers
 travelling
@@ -927,7 +929,8 @@ cursing
 it
 if
 you
-nothingtheyre
+nothing
+theyre
 angry
 if
 you

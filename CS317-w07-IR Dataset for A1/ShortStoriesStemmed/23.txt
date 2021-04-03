@@ -386,7 +386,7 @@ did
 not
 know
 what
-dowheth
+whether
 go
 away
 or
@@ -740,7 +740,8 @@ water
 veri
 air
 heavi
-stiflingwer
+stifl
+were
 hush
 seem
 plung
@@ -1109,7 +1110,8 @@ courag
 heroism
 love
 human
-humanitythat
+human
+that
 cut
 both
 way
@@ -1228,7 +1230,8 @@ come
 if
 you
 will
-notgod
+not
+god
 forgiv
 you
 but
@@ -1661,7 +1664,7 @@ slumber
 gleam
 with
 sullen
-lightand
+light
 carriag
 roll
 over
@@ -1722,7 +1725,8 @@ frighten
 him
 made
 movement
-listenlet
+listen
+let
 me
 go
 he
@@ -2038,7 +2042,7 @@ hue
 skin
 careless
 uncouth
-mannersth
+manner
 harsh
 this
 was
@@ -2767,7 +2771,8 @@ ceas
 love
 me
 love
-anotherso
+anoth
+so
 it
 but
 whi

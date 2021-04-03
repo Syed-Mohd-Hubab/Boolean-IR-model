@@ -159,7 +159,8 @@ appeal
 divis
 it
 glorious
-yesi
+yes
+i
 say
 i
 feel
@@ -438,7 +439,8 @@ minut
 later
 where
 you
-ddamnat
+d
+damnat
 tphoo
 ive
 put
@@ -873,7 +875,9 @@ voic
 i
 lawyer
 bachelor
-lawskozyavkinher
+law
+kozyavkin
+here
 my
 visit
 card

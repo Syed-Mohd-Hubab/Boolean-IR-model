@@ -370,7 +370,7 @@ service
 i
 constantly
 adhered
-principlethe
+principle
 public
 does
 not

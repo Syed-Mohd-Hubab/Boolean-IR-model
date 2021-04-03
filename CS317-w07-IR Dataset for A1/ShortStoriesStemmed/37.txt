@@ -213,7 +213,8 @@ it
 not
 out
 place
-enquirewhat
+enquir
+what
 you
 ask
 your
@@ -272,7 +273,8 @@ beforehand
 i
 realli
 dont
-knowther
+know
+there
 fix
 price
 i

@@ -117,10 +117,10 @@ very
 marvellous
 that
 our
-ladiesall
+ladies
 our
 females
-facthave
+fact
 turn
 prophecies
 presentiments
@@ -182,7 +182,8 @@ lady
 or
 female
 about
-exceptif
+except
+if
 you
 like
 beauty
@@ -1012,7 +1013,8 @@ who
 come
 stay
 three
-daysdamnation
+days
+damnation
 take
 an
 empty
@@ -1288,7 +1290,8 @@ forgive
 thats
 typical
 feminine
-logiccruel
+logic
+cruel
 merciless
 logic
 oh

@@ -82,10 +82,11 @@ fence
 just
 there
 but
-nothingneither
+nothing
+neither
 fences
 nor
-houseshad
+houses
 changed
 much
 people
@@ -586,7 +587,8 @@ wrote
 letters
 contrived
 meet
-accidentallyit
+accidentally
+it
 was
 use
 i
@@ -646,7 +648,8 @@ said
 uzelkov
 yes
 yes
-fifteeni
+fifteen
+i
 made
 mistake
 said
@@ -786,7 +789,8 @@ god
 knows
 what
 it
-wasshe
+was
+she
 lost
 head
 perhaps
@@ -983,7 +987,7 @@ was
 drunk
 too
 frantic
-stateas
+state
 wild
 though
 she

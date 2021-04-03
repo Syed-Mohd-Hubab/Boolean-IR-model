@@ -159,7 +159,8 @@ appeal
 division
 its
 glorious
-yesi
+yes
+i
 say
 i
 feel
@@ -438,7 +439,8 @@ minute
 later
 where
 you
-ddamnation
+d
+damnation
 tphoo
 ive
 put
@@ -873,7 +875,9 @@ voice
 i
 lawyer
 bachelor
-lawskozyavkinheres
+laws
+kozyavkin
+heres
 my
 visiting
 card

@@ -22,7 +22,7 @@ i
 chosen
 subject
 my
-dissertationthe
+dissertation
 past
 future
 dog
@@ -1966,7 +1966,7 @@ me
 pencil
 pieces
 glass
-drawingsall
+drawings
 scattered
 grass
 hang

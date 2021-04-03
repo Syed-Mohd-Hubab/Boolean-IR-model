@@ -530,7 +530,7 @@ lord
 sends
 it
 us
-punishmentthe
+punishment
 frost
 i
 mean
@@ -751,7 +751,8 @@ sorts
 dishes
 children
 go
-skatingthats
+skating
+thats
 true
 man
 who
@@ -845,11 +846,13 @@ enemies
 my
 sins
 troubles
-sortsi
+sorts
+i
 forget
 them
 but
-frostough
+frost
+ough
 how
 i
 remember
@@ -862,8 +865,9 @@ i
 was
 left
 little
-devilthis
-higha
+devil
+this
+high
 homeless
 orphan
 kith
@@ -875,7 +879,7 @@ little
 clothes
 hungry
 nowhere
-sleepin
+sleep
 fact
 here
 abiding

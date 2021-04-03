@@ -45,7 +45,7 @@ justitia
 here
 policia
 here
-militiaa
+militia
 regular
 boarding
 school
@@ -313,7 +313,8 @@ bright
 buttons
 president
 gave
-orderbring
+order
+bring
 prisoner
 but
 prisoner
@@ -696,7 +697,8 @@ it
 was
 colourless
 boring
-thengallop
+then
+gallop
 through
 mud
 rain
@@ -917,7 +919,8 @@ if
 he
 were
 die
-despairit
+despair
+it
 would
 shattered
 against
@@ -1423,7 +1426,8 @@ there
 was
 smile
 surprise
-perplexitytheir
+perplexity
+their
 faces
 expressed
 nothing
@@ -1436,7 +1440,9 @@ considers
 force
 with
 which
-ererer
+er
+er
+er
 criminal
 strikes
 blow

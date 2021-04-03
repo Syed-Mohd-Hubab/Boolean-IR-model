@@ -386,7 +386,7 @@ did
 not
 know
 what
-dowhether
+whether
 go
 away
 or
@@ -740,7 +740,8 @@ water
 very
 air
 heavy
-stiflingwere
+stifling
+were
 hushed
 seemed
 plunged
@@ -1109,7 +1110,8 @@ courage
 heroism
 love
 humanity
-humanitythat
+humanity
+that
 cuts
 both
 ways
@@ -1228,7 +1230,8 @@ come
 if
 you
 will
-notgod
+not
+god
 forgive
 you
 but
@@ -1661,7 +1664,7 @@ slumbering
 gleamed
 with
 sullen
-lightand
+light
 carriage
 rolled
 over
@@ -1722,7 +1725,8 @@ frightened
 him
 made
 movement
-listenlet
+listen
+let
 me
 go
 he
@@ -2038,7 +2042,7 @@ hue
 skin
 careless
 uncouth
-mannersthe
+manners
 harshness
 this
 was
@@ -2767,7 +2771,8 @@ ceased
 love
 me
 love
-anotherso
+another
+so
 it
 but
 why

@@ -117,10 +117,10 @@ veri
 marvel
 that
 our
-ladiesal
+ladi
 our
 femal
-facthav
+fact
 turn
 propheci
 presenti
@@ -182,7 +182,8 @@ ladi
 or
 femal
 about
-exceptif
+except
+if
 you
 like
 beauti
@@ -1012,7 +1013,8 @@ who
 come
 stay
 three
-daysdamn
+day
+damnat
 take
 an
 empti
@@ -1288,7 +1290,8 @@ forgiv
 that
 typic
 feminin
-logiccruel
+logic
+cruel
 merciless
 logic
 oh

@@ -884,12 +884,13 @@ beside
 smith
 wesson
 other
-dayas
+day
 i
 dare
 say
 you
-readan
+read
+an
 officer
 bought
 from
@@ -903,7 +904,7 @@ lover
 would
 you
 believe
-itthe
+it
 bullet
 passed
 through
@@ -1025,7 +1026,8 @@ our
 trade
 gets
 worse
-worseit
+worse
+it
 doesnt
 mean
 that
@@ -1057,7 +1059,8 @@ sahalin
 sake
 pig
 like
-thattheres
+that
+theres
 sense
 that
 either

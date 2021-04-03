@@ -49,7 +49,7 @@ candl
 reflect
 face
 hand
-frameal
+frame
 this
 was
 alreadi
@@ -415,7 +415,7 @@ blew
 into
 open
 hand
-andnot
+not
 movement
 ill
 come

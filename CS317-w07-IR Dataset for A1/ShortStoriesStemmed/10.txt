@@ -432,7 +432,8 @@ round
 him
 cupboard
 chest
-tableseveryth
+tabl
+everyth
 bore
 trace
 recent

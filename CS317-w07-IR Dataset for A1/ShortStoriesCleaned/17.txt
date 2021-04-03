@@ -243,10 +243,12 @@ my
 head
 but
 thank
-goodnessgod
+goodness
+god
 bless
 him
-itmy
+it
+my
 son
 law
 boris
@@ -369,7 +371,8 @@ not
 your
 business
 get
-awaythats
+away
+thats
 i
 get
 out

@@ -884,12 +884,13 @@ besid
 smith
 wesson
 other
-daya
+day
 i
 dare
 say
 you
-readan
+read
+an
 offic
 bought
 from
@@ -903,7 +904,7 @@ lover
 would
 you
 believ
-itth
+it
 bullet
 pass
 through
@@ -1025,7 +1026,8 @@ our
 trade
 get
 wors
-worseit
+wors
+it
 doesnt
 mean
 that
@@ -1057,7 +1059,8 @@ sahalin
 sake
 pig
 like
-thatther
+that
+there
 sens
 that
 either

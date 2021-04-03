@@ -22,7 +22,7 @@ i
 chosen
 subject
 my
-dissertationth
+dissert
 past
 futur
 dog
@@ -1966,7 +1966,7 @@ me
 pencil
 piec
 glass
-drawingsal
+draw
 scatter
 grass
 hang

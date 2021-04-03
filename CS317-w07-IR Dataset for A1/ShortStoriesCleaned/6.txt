@@ -49,7 +49,7 @@ candles
 reflection
 face
 hands
-frameall
+frame
 this
 was
 already
@@ -415,7 +415,7 @@ blew
 into
 open
 hand
-andnot
+not
 movement
 ill
 come

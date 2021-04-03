@@ -76,7 +76,8 @@ corpse
 almost
 road
 sits
-watchtwo
+watch
+two
 peasants
 performing
 one
@@ -130,7 +131,7 @@ big
 crooked
 bit
 wood
-othera
+other
 little
 scraggy
 pock
@@ -144,7 +145,8 @@ scanty
 moustache
 little
 goats
-beardsits
+beard
+sits
 with
 hands
 dangling
@@ -225,7 +227,8 @@ story
 sing
 song
 but
-youthere
+you
+there
 making
 you
 out

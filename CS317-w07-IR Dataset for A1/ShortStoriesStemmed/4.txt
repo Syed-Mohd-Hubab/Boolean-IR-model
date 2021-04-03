@@ -76,7 +76,8 @@ corps
 almost
 road
 sit
-watchtwo
+watch
+two
 peasant
 perform
 one
@@ -130,7 +131,7 @@ big
 crook
 bit
 wood
-othera
+other
 littl
 scraggi
 pock
@@ -144,7 +145,8 @@ scanti
 moustach
 littl
 goat
-beardsit
+beard
+sit
 with
 hand
 dangl
@@ -225,7 +227,8 @@ stori
 sing
 song
 but
-youther
+you
+there
 make
 you
 out

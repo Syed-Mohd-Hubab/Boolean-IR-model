@@ -71,7 +71,7 @@ idl
 babbl
 eat
 drink
-sleepand
+sleep
 appar
 that
 was
@@ -148,7 +148,8 @@ anyth
 whatev
 you
 give
-himfrog
+him
+frog
 rat
 black
 beetl
@@ -198,7 +199,8 @@ nasti
 but
 if
 it
-frencho
+french
+o
 say
 tray
 zhole
@@ -253,7 +255,8 @@ when
 you
 drive
 out
-gateyou
+gate
+you
 see
 end
 land
@@ -403,7 +406,7 @@ boast
 he
 will
 invent
-somethingand
+someth
 break
 it
 or
@@ -723,7 +726,7 @@ correct
 figur
 trunk
 bedstead
-tableal
+tabl
 an
 air
 eleg

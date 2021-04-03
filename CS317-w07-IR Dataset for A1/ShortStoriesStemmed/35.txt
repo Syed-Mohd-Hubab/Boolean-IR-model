@@ -842,7 +842,7 @@ gentleman
 piano
 tuner
 indic
-blistanovhad
+blistanov
 gone
 away
 i
@@ -900,7 +900,8 @@ here
 libel
 me
 not
-sirgod
+sir
+god
 forbid
 you
 misunderstand
