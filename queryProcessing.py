@@ -57,7 +57,6 @@ def twoTermProcessing(operators, terms):
             result = union(data[t1], data[t2])
         print("Final result of 2 terms:", result)
 
-
 def replaceNot(query):
     print('Before: ',query)
     booleans = ['and', 'or']
@@ -136,6 +135,8 @@ if __name__ == "__main__":
             i = i+1
 
     replaceNot(query)
+
+
     # print("Operators extracted:", operators)
     # print("Terms extracted:", terms)
     # print("Query stemmed: ", query)
