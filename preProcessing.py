@@ -29,7 +29,7 @@ def removePunctuations(file, name):
 
     # Reading the file string char-by-char, if its not an alphabet/space/newline, remove it
     for char in fileStr:
-        if char is "-" or "—": # '\n;?:!.,.'
+        if (char == "-" or char == "—"): # '\n;?:!.,.'
             fileStr = fileStr.replace(char, " ")    
         if char not in alphabets and char is not " " and char is not '\n':
             # print("Punc: ",char)

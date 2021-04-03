@@ -22,6 +22,6 @@ for NUMBER in range(1, 51):
         file.write(stems[i]+'\n')
     
     file.close()
-
+    print("Stemmed:", name)
     # print(NUMBER, " before ->", len(words))
     # print(NUMBER, " after ->", len(stems)) 
