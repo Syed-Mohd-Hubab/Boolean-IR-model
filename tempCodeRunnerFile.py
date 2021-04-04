@@ -175,16 +175,4 @@ if __name__ == "__main__":
             query.append(stem)
             terms.append(stem)
 
-    if len(operators) == 0 and len(query) == 3 and query[2][1].isnumeric():
-        print('Proximity Query with {} words apart.'.format(query[2][1]))
-        proximityQuery(query)
-
-    elif (len(operators) == 0 and len(terms) > 2) or (len(operators) > 0 and len(terms) == 0):
-            print('Wrong query entered!')
-    
-    else:
-        print('Boolean Query with {} boolean operators.'.format(len(operators)))
-        query = checkTermsExistance(query)
-        # print('Query after removing non-existant terms: ', query)
-        replaceNot(query)
-
+    print(query[2][1].isnumeric())
