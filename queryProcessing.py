@@ -111,8 +111,13 @@ def boolProcessing(query):
             i += 1
     print('After: ',i,query)
         
-
-
+def checkTermsExistance(terms):
+    flag = True
+    for term in terms:
+        if term not in data:
+            print('The stemmed term `{}` does not exist in the dictionry!'.format(term))
+            flag = False
+    return flag
 
 
 if __name__ == "__main__":
@@ -133,6 +138,10 @@ if __name__ == "__main__":
             query.append(stem)
             terms.append(stem)
             i = i+1
+
+    if( not checkTermsExistance(terms)):
+        print('Exiting program, terms not found!')
+        quit()
 
     replaceNot(query)
 
