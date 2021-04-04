@@ -1,23 +1,24 @@
 Query 1: beard
-Result-set: 1,24,6,11,20,21,23,25,26,31,34,44
+Result-set: 1,2,4,6,11,20,21,23,25,26,31,34,44   # ... 34, 40 ,44 
 
 Query 2: passenger
-Result-set: 2,5,19,41,43
+Result-set: 2,5,19,41,43    # same
 
 Query 3: permission and possible 
-Result-set: 45
+Result-set: 45              # [[39, 45]]
 
 Query 4: power and play 
-Result-set: 2
+Result-set: 2               # [[2, 9, 10, 47]]
 
 Query 5: ladies and gentleman 
-Result-set: 2,16,26,36,48 
+Result-set: 2,16,26,36,48   # [[2, 5, 16, 17, 19, 25, 26, 35, 36, 45, 48]]
 
 Query 6: strange and land and play
-Result-set: 49
+Result-set: 49              # [[25, 49]]
 
 Query 7: god and man and love 
-Result-set: 1,2,4,7,16,19,22,23,24,25,26,28,38,46
+Result-set: 1,2,4,7,16,19,22,23,24,25,26,28,38,46   
+        # [[1, 2, 4, 7, 8, 9, 14, 16, 19, 22, 23, 24, 25, 26, 27, 28, 31, 38, 46]]
 
 Query 8 : smiling face /3
 Result-set: 11

@@ -64,14 +64,18 @@ def replaceNot(query):
     res2 = []
     res3 = []
     i = 0
-    while(i <len(query)):
+    while(i < len(query)):
         print("Now at {}, {}".format(i, query[i]))
         if query[i] == 'not':
             term = query[i+1]
             query.pop(i)
             query.pop(i)
             # i += 2
-            res1 = complement(data[term]) 
+            if term == []:
+                lst = []
+            else:
+                lst = data[term]
+            res1 = complement(lst) 
             query.insert(i, res1)
             print('Not encountered, current query: ', query)
         elif query[i] not in booleans:
@@ -91,7 +95,7 @@ def boolProcessing(query):
     res2 = []
     res3 = []
     i = 0
-    while(len(query)):
+    while(i < len(query)):
         if query[i] in booleans:
             t1 = query[i-1]
             ope = query[i]
@@ -111,13 +115,13 @@ def boolProcessing(query):
             i += 1
     print('After: ',i,query)
         
-def checkTermsExistance(terms):
-    flag = True
-    for term in terms:
-        if term not in data:
-            print('The stemmed term `{}` does not exist in the dictionry!'.format(term))
-            flag = False
-    return flag
+def checkTermsExistance(query):
+    for i, term in enumerate(query):
+        if term not in data and term not in booleans: 
+            print('`{}`not in data'.format(term))
+            query[i] = []
+    return query
+
 
 
 if __name__ == "__main__":
@@ -139,10 +143,8 @@ if __name__ == "__main__":
             terms.append(stem)
             i = i+1
 
-    if( not checkTermsExistance(terms)):
-        print('Exiting program, terms not found!')
-        quit()
-
+    query = checkTermsExistance(query)
+    print('Query after removing non-existant terms: ', query)
     replaceNot(query)
 
 
