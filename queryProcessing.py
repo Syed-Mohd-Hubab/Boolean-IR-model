@@ -22,43 +22,6 @@ def complement(lst1):
     lst3 = [value for value in lst2 if value not in lst1]
     return lst3
 
-def processing(operators, terms):
-    result = []
-
-    if terms == 2:
-        twoTermProcessing(operators, terms)
-    elif terms == 3:
-        threeTermProcessing(operators, terms)
-    else:
-        print(">3 terms qeuries not supported...")
-        return
-
-def twoTermProcessing(operators, terms):
-    result = []
-    operator = operators.pop(0)
-    if operator == "not":
-        term = terms.pop(0)
-        lst = data[term]
-        res1 = complement(lst)
-        operator = operators.pop(0)
-        term = term.pop(0)
-        if operator == 'and':
-            result = intersection(res1, data[term])
-        elif operator == 'or':
-            result = union(res1, data[term])
-        else:
-            print("WRONG QUERY")
-        print("!Final result of 2 terms:", result)
-        return
-    else:
-        t1 = terms.pop(0)
-        t2 = terms.pop(0)
-        if operator == 'and':
-            result = intersection(data[t1], data[t2])
-        elif operator == 'or':
-            result = union(data[t1], data[t2])
-        print("Final result of 2 terms:", result)
-
 def replaceNot(query):
     # print('Before: ',query)
     booleans = ['and', 'or']
@@ -117,7 +80,7 @@ def boolProcessing(query):
             i += 1
     # print('After: ',len(query),query)
     if len(query)>1:
-        print('Wrong Query Entered!')
+        print('Wrong query Entered!')
     else:
         print('Final Result:', query[0])
         
@@ -151,17 +114,13 @@ def proximityQuery(query):
                 if abs(i-j) <= dist:
                     # print("In doc {} at {}, {}".format(doc ,i, j))
                     finalDocs.append(doc)
-    print('Result of proximity query: ', finalDocs)
-
-
-
-    
+    print('Result of proximity query: ', finalDocs)    
 
 if __name__ == "__main__":
     query = input('Enter the query:')
     queryWords = query.split()
     query = []
-    booleans = ["and", "or", "not"]
+    booleans = ['and', 'or', 'not']
     operators = []
     terms = []
 
@@ -176,15 +135,16 @@ if __name__ == "__main__":
             terms.append(stem)
 
     if len(operators) == 0 and len(query) == 3 and query[2][1].isnumeric():
-        print('Proximity Query with {} words apart.'.format(query[2][1]))
+        print('Proximity query with {} words apart.'.format(query[2][1]))
         proximityQuery(query)
 
     elif (len(operators) == 0 and len(terms) > 2) or (len(operators) > 0 and len(terms) == 0):
             print('Wrong query entered!')
+            quit()
     
     else:
-        print('Boolean Query with {} boolean operators.'.format(len(operators)))
+        print('Boolean query with {} boolean operators.'.format(len(operators)))
         query = checkTermsExistance(query)
-        # print('Query after removing non-existant terms: ', query)
+        # print('query after removing non-existant terms: ', query)
         replaceNot(query)
 
