@@ -2,8 +2,10 @@ import json
 import numpy as np
 import Stemmer
 stemmer = Stemmer.Stemmer('english') 
-f = open("dictionary.json", )
-data = json.load(f)
+f1 = open("dictionary.json", )
+data = json.load(f1)
+f2 = open("positions.json", )
+data2 = json.load(f2)
 
 def intersection(lst1, lst2):
     lst3 = [value for value in lst1 if value in lst2]
@@ -58,14 +60,14 @@ def twoTermProcessing(operators, terms):
         print("Final result of 2 terms:", result)
 
 def replaceNot(query):
-    print('Before: ',query)
+    # print('Before: ',query)
     booleans = ['and', 'or']
     res1 = []
     res2 = []
     res3 = []
     i = 0
     while(i < len(query)):
-        print("Now at {}, {}".format(i, query[i]))
+        # print("Now at {}, {}".format(i, query[i]))
         if query[i] == 'not':
             term = query[i+1]
             query.pop(i)
@@ -77,19 +79,19 @@ def replaceNot(query):
                 lst = data[term]
             res1 = complement(lst) 
             query.insert(i, res1)
-            print('Not encountered, current query: ', query)
+            # print('Not encountered, current query: ', query)
         elif query[i] not in booleans:
             term = query[i]
             query.pop(i)
             query.insert(i, data[term])
-            print('!bool encountered, current query: ', query)
+            # print('!bool encountered, current query: ', query)
         i += 1
-    print('After: ', query)
+    # print('After: ', query)
     boolProcessing(query)
 
 def boolProcessing(query):
-    print('#################')
-    print('Before: ',query)
+    # print('#################')
+    # print('Before: ',query)
     booleans = ['and', 'or']
     res1 = []
     res2 = []
@@ -100,7 +102,7 @@ def boolProcessing(query):
             t1 = query[i-1]
             ope = query[i]
             t2 = query[i+1]
-            print('perform {} on {},,,, {}'.format(query[i].upper(), t1, t2))
+            # print('perform {} on {},,,, {}'.format(query[i].upper(), t1, t2))
             query.pop(i)
             query.pop(i)
             query.pop(i-1)
@@ -110,10 +112,14 @@ def boolProcessing(query):
                 res1 = union(t1, t2)
             query.insert(i-1, res1)
             i = i-1
-            print('Current query: ', query)
+            # print('Current query: ', query)
         else:
             i += 1
-    print('After: ',i,query)
+    # print('After: ',len(query),query)
+    if len(query)>1:
+        print('Wrong Query Entered!')
+    else:
+        print('Final Result:', query[0])
         
 def checkTermsExistance(query):
     for i, term in enumerate(query):
@@ -122,7 +128,34 @@ def checkTermsExistance(query):
             query[i] = []
     return query
 
+def proximityQuery(query):
+    t1 = query.pop(0)
+    t2 = query.pop(0)
+    dist = int(query[0][1])
+    t1 = data2[t1]
+    t2 = data2[t2]
+    lst1, lst2 = [], []
+    for file in t1:
+        lst1.append(file)
+    for file in t2:
+        lst2.append(file)
+    lst = intersection(lst1, lst2)
+    # lst = sorted(lst)
+    # print('Intersecting docs: ', lst)
+    finalDocs = []
+    for doc in lst:
+        for i in t1[doc]:
+            # print(num, end=', ')
+            # print(type(i))
+            for j in t2[doc]:
+                if abs(i-j) <= dist:
+                    # print("In doc {} at {}, {}".format(doc ,i, j))
+                    finalDocs.append(doc)
+    print('Result of proximity query: ', finalDocs)
 
+
+
+    
 
 if __name__ == "__main__":
     query = input('Enter the query:')
@@ -131,7 +164,7 @@ if __name__ == "__main__":
     booleans = ["and", "or", "not"]
     operators = []
     terms = []
-    i=0
+
     for word in queryWords:
         word = word.lower()
         if word in booleans:
@@ -141,18 +174,19 @@ if __name__ == "__main__":
             stem = stemmer.stemWord(word)
             query.append(stem)
             terms.append(stem)
-            i = i+1
 
-    query = checkTermsExistance(query)
-    print('Query after removing non-existant terms: ', query)
-    replaceNot(query)
+    if len(operators) == 0 and len(query) == 3:
+        print('Proximity Query with {} words apart.'.format(query[2][1]))
+        proximityQuery(query)
+
+    else:
+        print('Boolean Query with {} boolean operators.'.format(len(operators)))
+        query = checkTermsExistance(query)
+        # print('Query after removing non-existant terms: ', query)
+        replaceNot(query)
 
 
     # print("Operators extracted:", operators)
     # print("Terms extracted:", terms)
     # print("Query stemmed: ", query)
-
-    ### SIMPLE QUERY PROCESSING ###
-
-
 
